@@ -1,5 +1,6 @@
 // script by @carlostkd
 // Start your listner and change your ip and port
+// no privileges needed
 
 #include "DigiKeyboard.h"
 #define KEY_TAB 0x2b
